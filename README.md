@@ -1,3 +1,14 @@
+# Frags Mono
+
+Frags Mono is a customized version of [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono), originally created by Wei Huang.
+
+This modified version was edited using [Glyphr Studio](http://glyphrstudio.com/). The font has been renamed in accordance with the SIL Open Font License.
+
+## License
+
+Frags Mono is licensed under the [SIL Open Font License, Version 1.1](https://scripts.sil.org/OFL).  
+See the included `OFL.txt` file for full details.
+
 # Fragment Mono
 
 Fragment Mono is a monospaced coding version of Helvetica created by modifying and extending [Nimbus Sans](https://github.com/twardoch/urw-core35-fonts) by URW Design Studio. 
