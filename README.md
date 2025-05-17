@@ -2,6 +2,9 @@
 
 Frags Mono is a customized version of [Fragment Mono](https://github.com/weiweihuanghuang/fragment-mono), originally created by Wei Huang.
 
+Modified characters include (separated by commas): i, j, $, *, @<br>
+Modified ligatures include (separated by commas): <=, >=,<-, ->, <--, -->, <!--, =>, !=
+
 This modified version was edited using [Glyphr Studio](http://glyphrstudio.com/). The font has been renamed in accordance with the SIL Open Font License.
 
 ## License
